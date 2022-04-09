@@ -1,0 +1,15 @@
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\bin\Debug\net6.0\yasminemethod.exe
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\bin\Debug\net6.0\yasminemethod.deps.json
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\bin\Debug\net6.0\yasminemethod.runtimeconfig.json
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\bin\Debug\net6.0\yasminemethod.dll
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\bin\Debug\net6.0\yasminemethod.pdb
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\obj\Debug\net6.0\yasminemethod.csproj.AssemblyReference.cache
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\obj\Debug\net6.0\yasminemethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\obj\Debug\net6.0\yasminemethod.AssemblyInfoInputs.cache
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\obj\Debug\net6.0\yasminemethod.AssemblyInfo.cs
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\obj\Debug\net6.0\yasminemethod.csproj.CoreCompileInputs.cache
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\obj\Debug\net6.0\yasminemethod.dll
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\obj\Debug\net6.0\refint\yasminemethod.dll
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\obj\Debug\net6.0\yasminemethod.pdb
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\obj\Debug\net6.0\yasminemethod.genruntimeconfig.cache
+D:\Kuliah 2\Pemrograman\yasminemethod\yasminemethod\obj\Debug\net6.0\ref\yasminemethod.dll
